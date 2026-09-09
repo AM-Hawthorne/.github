@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel-hawthorn.png" alt="Hawthorne" width="160">
+  <img src="./pixel-hawthorn-header.png" alt="Hawthorne" width="160">
 
 <p align="center">
   Exploring the path from software risk discovery to validated remediation.
